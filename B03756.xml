@@ -1,0 +1,327 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To his highness Oliver Lord Protector of the Comon-wealth [sic] of England, Scotland, and Ireland. The humble petition of Sir Job Harby knight.</title>
+            <author>Harby, Job, Sir.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03756</idno>
+            <idno type="STC">Wing H681</idno>
+            <idno type="STC">ESTC R177897</idno>
+            <idno type="EEBO-CITATION">51617623</idno>
+            <idno type="OCLC">ocm 51617623</idno>
+            <idno type="VID">175255</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03756)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175255)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2724:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To his highness Oliver Lord Protector of the Comon-wealth [sic] of England, Scotland, and Ireland. The humble petition of Sir Job Harby knight.</title>
+                  <author>Harby, Job, Sir.</author>
+                  <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1658]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publication data from Wing.</note>
+                  <note>Reproduction of the original in the Columbia University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hesilrige, Arthur, --  Sir, d. 1661.</term>
+               <term>Coal --  Taxation --  England --  Early works to 1800.</term>
+               <term>Export duties --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:175255:1" rendition="simple:additions"/>
+            <pb facs="tcp:175255:1" rendition="simple:additions"/>
+            <pb facs="tcp:175255:2"/>
+            <pb n="1" facs="tcp:175255:2" rendition="simple:additions"/>
+            <head>TO His Highneſs OLIVER Lord Protector of the Comon-wealth of <hi>England, Scotland,</hi> and <hi>Jreland.</hi> The humble Petition of Sir <hi>Job Harby</hi> Knight.</head>
+            <opener>Humbly Sheweth:</opener>
+            <p>THat Letters Pattents were made upon Sea-coales exported out of <hi>England, Sunderland,</hi> and <hi>Wales,</hi> bearing date 11.<hi rend="sup">th</hi> 
+               <hi>Aprill,</hi> 13. yeare of the late King, giving directions for the Collection of Foure ſhil<g ref="char:EOLhyphen"/>lings on each Chaldron that ſhould bee exported after the date of the ſaid Letters Pattents, that the ſaid Impoſt by Indenture dated 2. <hi>July,</hi> 1634. Was demiſed unto your Petitioner and others for their owne proper Uſes, it being without prejudice to the Engliſh Nation; which ſaid Graunt was confirmed to your Petitioner for XXXI. yeares to come upon the Conſideration following, your Petitio<g ref="char:EOLhyphen"/>ner for his ſhare having payed 9000. pounds, and for the firſt 7. Years rent of 100. l. yearly to be payd to the Crown, and 500. l. <hi>per Annum</hi> untill the end of the Graunt, and this likewiſe under the broad Seale of <hi>England</hi> for the uſes a<g ref="char:EOLhyphen"/>foreſaid, which ſaid Rent was payd into the Exchequer, ſo <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ong as enjoyed by your Petitioner, the Graunt was never found grievous but confirmed by the late Parliament in the <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ooke of Rates; howbeit your Petitioner hath been depri<g ref="char:EOLhyphen"/>ved
+<pb n="2" facs="tcp:175255:3"/> hereof ever ſince the yeare 1642. when the Earle of <hi>Newcaſtle</hi> held that Towne, nor could hee ever ſince be re<g ref="char:EOLhyphen"/>ſtored to his juſt Right, Sir <hi>Arthur Haſlerigge</hi> having got<g ref="char:EOLhyphen"/>ten the ſame into his poſſeſſion; upon which ſaid Impoſi<g ref="char:EOLhyphen"/>tions there hath been received neare 20. Thouſand pounds, by what Power or Right is unknowne to your Petitioner.</p>
+            <p>The Premiſſes conſidered, your Petitioner humbly prayeth that a Committee bee appointed to call thoſe perſons to an Accompt for the Twenty thouſand pounds received by them, and in particuler Sir <hi>Arthur Haſlerigge</hi> for thoſe great ſummes of Money he hath taken out of the ſaid Collection, and that hee and they may ſhew by what Order they received the ſame, your Petitioner being al<g ref="char:EOLhyphen"/>wayes well affected to the Parliament, and as a teſtimony thereof advanced voluntarily on the Propoſitions and City Scale, the ſum of Three thouſand pounds.</p>
+            <p>And your Petitioner further prayeth, that by the goodneſs and juſtice of your Highneſs, hee may according to Law and E<g ref="char:EOLhyphen"/>quity re-enjoy the benefit of the aforementioned Graunt pur<g ref="char:EOLhyphen"/>chaſed by him as aforeſaid, unto the full end and expiration of his Leaſe, paying the Rent reſerved to the State.</p>
+            <closer>
+               <signed>And hee ſhall ever pray.</signed>
+            </closer>
+         </div>
+         <div n="1" type="reference">
+            <head>The first Reference.</head>
+            <p>HIs Highneſs doth direct that the Committee for In<g ref="char:EOLhyphen"/>ſpection doe take into conſideration this Petition and examine the Allegations thereof, and report how they find the matter of fact, with their opinion to his Highneſs and the Councell, 23 <hi>Febr.</hi> 1653.</p>
+            <closer>
+               <signed>JOHN THVRLOE</signed>
+            </closer>
+         </div>
+         <div type="order">
+            <pb n="3" facs="tcp:175255:3"/>
+            <head>By the Commiſsioners by Ordinance from his <hi>Highneſs the Lord Protector and his Committee, for In<g ref="char:EOLhyphen"/>ſpecting the Treaſuries,</hi> 
+               <date>April, 28. 1654.</date>
+            </head>
+            <p>IN purſuance of a Reference from his Highneſs the Lord Protector dated 23. <hi>Febr.</hi> 1653. upon the Petition of Sir <hi>Iob Harby.</hi> Knight.</p>
+            <p>Wee doe humbly certifie, that we doe find by Letters Pattents 11. <hi>Aprill,</hi> in the 10.th yeare of the raigne of the late King, there was an Impoſit. on of 4. s. the Chaldron on Sea-Coales exported, which ſaid Impoſition was confirmed by act of Parliament in the book of Rates, and by the ſaid Letters Pattents <hi>Iob Harby</hi> Eſquire, was made Col<g ref="char:EOLhyphen"/>lector of the ſaid Impoſition, and by Letters Pattents dated <hi>Iuly</hi> 2. in the 10. yeare of the raigne of the late King, the ſaid Impoſition of 4. s. the Chaldron on Sea-coales exported, was granted <hi>Henry Lucas, John White,</hi> and <hi>Iob Harby</hi> Eſquire, for the uſes of the Earl of <hi>Holland,</hi> Earl of <hi>Dorſet</hi> &amp; Sir <hi>Iob Harby</hi> Knight, upon conſideration of ſervices done by the ſaid Earls, and of payment of 8612. l. 15. s. 3. d. as by privy Seal dated the laſt of <hi>Auguſt,</hi> in the 10. year of the raigne of the late K. doth appear, and according to the ſaid Letters Pattents the rent reſetved therein was payd into the Exchequer by Sir <hi>Iob Harby</hi> and others till 23. <hi>Octob.</hi> in the 20. yeare of the raigne of the late King, as by Affida<g ref="char:EOLhyphen"/>vit of <hi>William Day</hi> of <hi>London</hi> Marchant doth appeare, we doe further find that the ſaid Sir <hi>Job Harby,</hi> hath not received any part of the pro<g ref="char:EOLhyphen"/>fits ariſing on the ſaid Impoſition from 29. <hi>Iuly,</hi> 1642. to this preſent time, there being in the yeare 1642. received by Order from the Earle of <hi>Newcaſtle,</hi> and after the delivery of the ſaid Towne to the <hi>Scots</hi> to this time, received by Mr. <hi>Dawſon</hi> of <hi>Newcaſtle</hi> who hath payd the ſame to the <hi>Scots,</hi> and Sir <hi>Arthur Haſlerigge,</hi> as by Certificate under the hand of <hi>Thomas Palmer</hi> dated <hi>Aprill</hi> 10.th 1654. doth appeare. We doe humbly offer as our opinion, that it is juſt that the ſaid Sir <hi>Iob Harby</hi> ſhould be ſatisfied for his ſaid part of 4. s. the Chaldron recei<g ref="char:EOLhyphen"/>ved on Coales exported ſince the yeare 1642. and the ſaid Sir <hi>Iob Harby</hi> to be admitted to collect the ſaid 4. s. the Chaldron for the fu<g ref="char:EOLhyphen"/>ture, and to receive the third part thereof for his owne uſe durinn the terme of yeares granted by by the ſaid Letters Pattents yet unexpired.</p>
+            <closer>
+               <signed>
+                  <hi>Geo: Bennet. Wil: Roberts. Edw. Creſſet. Wil: Coffe.</hi> Exam. <hi>Tho. Smiths by</hi> Secret.</signed>
+               <dateline>Dated <date>28. <hi>April,</hi> 1654.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div n="2" type="reference">
+            <pb n="4" facs="tcp:175255:4"/>
+            <head>A Second Reference.</head>
+            <p>HIs Highneſs having conſidered this Report, referres it back to the ſaid Committees to examine by what Or<g ref="char:EOLhyphen"/>der and direction Mr. <hi>Dawſon</hi> of <hi>Newcaſtle</hi> received and paid the duty of 4. s. upon the Chaldron of Coales to the <hi>Scots</hi> and Sir <hi>Arthur Haſlerigge,</hi> and that they likewiſe conſider what Orders, Ordinances, or Acts of Parliament, have been made by the Parliament or Committee of the Revenue concerning the ſaid Duty, and upon Certificate thereof to his Highneſs, hee will be pleaſed to give ſuch further di<g ref="char:EOLhyphen"/>rection thereupon as ſhall be juſt.</p>
+            <closer>
+               <signed>JOHN THVRLOE</signed>
+            </closer>
+         </div>
+         <div type="documents">
+            <head>Mr. SCOBELS Certificate,</head>
+            <div type="certificate">
+               <opener>
+                  <dateline>
+                     <date>
+                        <hi>Die Martis</hi> 9. Febr. 1646.</date>
+                  </dateline>
+               </opener>
+               <p>ORdered by the Lords and Commons in Parliament aſſembled, That the Impoſition of 4. s. a Chaldron upon Sea-Coales, be continued till the Five and twentieth day of <hi>March</hi> next.</p>
+            </div>
+            <div type="certificate">
+               <opener>
+                  <dateline>
+                     <date>
+                        <hi>Die Martis</hi> 11. Septemb. 1649.</date>
+                  </dateline>
+               </opener>
+               <p>REſolved upon the Queſtion of the Commons aſſembled in Parliament, That the Impoſition of 4. s. upon the Chaldron of Coales formerly taken at <hi>Newcaſtle,</hi> be taken off and ſhall not henceforth be payed.</p>
+               <pb n="5" facs="tcp:175255:4"/>
+               <p>Upon Search made in the Iournall bookes, I find no Ordinance nor Order other then this, touching any Impo<g ref="char:EOLhyphen"/>ſition on Coales.</p>
+               <closer>
+                  <signed>
+                     <hi>HEN. SCOBEL</hi> Clerk of the Parliament.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="order">
+            <head>By the Commiſsioners by Ordinance from his Highneſs the Lord Protector and his Councell, for Inſpecting the Treaſuries, <date>
+                  <hi>Septemb.</hi> 21. 1654.</date>
+            </head>
+            <p>IN purſuance of a Reference from his Highneſs the Lord Protector, dated 3. of <hi>August,</hi> 1654.</p>
+            <p>
+               <hi>Ordered.</hi>
+            </p>
+            <p>THat Mr. <hi>George Dawſon</hi> Collector of the Cuſtomes and Impoſi<g ref="char:EOLhyphen"/>tions on Coales at <hi>Newcaſtle,</hi> doe Certifie unto Us, by 3. <hi>October</hi> next enſuing; What Monies he hath received ſince the time of his be<g ref="char:EOLhyphen"/>ing firſt Collector upon that Accompt, as alſo how the 11. Shillings foure pence now payd on each Chaldron doth ariſe, whether upon a joynt or ſeverall Accompt, or whether the 4. s. on the Chaldron for<g ref="char:EOLhyphen"/>merly received by <hi>Thomas Palmer</hi> in the yeare, 1642. or before, bee not included in the ſaid— 11. Shillings 4. d. and alſo whether any other 4. s. the Chaldron above the ſaid 11. Shillings and 4. pence have been ſince the yeare, 1642. or before, received by himſelfe or any o<g ref="char:EOLhyphen"/>ther in the Port of <hi>Newcaſtle;</hi> If ſo received, upon what Accompt and ſince he hath not been ſo long Collector, what he cannot Certifie upon his owne knowledge, hee is deſired to doc by the beſt Informati<g ref="char:EOLhyphen"/>on he can obtaine from others.</p>
+            <closer>
+               <signed>
+                  <hi>George Bennet. William Roberts. Edward Creſſet.</hi> Exam. <hi>Thomas Smithsby,</hi> Secretary.</signed>
+            </closer>
+         </div>
+         <div type="certificate">
+            <pb n="6" facs="tcp:175255:5"/>
+            <head>Mr. <hi>Dawſons</hi> Certificate.</head>
+            <head type="sub">In Obedience to an Order of the Honourable Commiſsioners for Inſpecting the Treaſuries, dated <date>
+                  <hi>21. September, 1654.</hi>
+               </date>
+            </head>
+            <p>THeſe are to Certifie, that I cannot in ſo ſhort a time as before the 3. of <hi>October</hi> next, give an Accompt what Monies have been re<g ref="char:EOLhyphen"/>ceived by me for Cuſtome of Coales, ſince the time of my being firſt Collector, but if longer time be granted me, I ſhall obſerve Orders ſo much as in me lyes: J doe not obſerve by the preſent booke of Rates which is the Rule whereby J doe collect the 11. Shillings and 4. pence the Chaldron on Sea-coales exported, that it hath any other name then Subſidy, and ſo by the name of Subſidy or Cuſtome I have from the 2. day of <hi>December,</hi> 1644. and doe ſtill continue receiving the ſame under that name of Cuſtome, and not as Impoſition, I can<g ref="char:EOLhyphen"/>not of mine owne knowledge Certifie more then the booke of Rates holds forth, how the ſaid — 11. s. 4. d. doth ariſe, but by credible per<g ref="char:EOLhyphen"/>ſons in <hi>Newcaſtle,</hi> I am informed that before the preſent booke of Rates came forth, there was Collected in <hi>Newcaſtle</hi> for Coales expor<g ref="char:EOLhyphen"/>ted an Impoſition of — 6. s. 8. d. the Chaldron by the Deputy of Sir <hi>John Trevor,</hi> &amp;c. and an Impoſition of 4. s. the Chaldron by the De<g ref="char:EOLhyphen"/>puty of Sir <hi>Job Harby,</hi> and at that time alſo the Farmers of the Cu<g ref="char:EOLhyphen"/>ſtomes their Deputy did Collect — 8. d. the Chaldron as cuſtome; There hath been ſince <hi>Nevember,</hi> 1644. divers Impoſts laid upon Coales Shipt out of the Port of <hi>Newcaſtle,</hi> but they were layd on firſt by the <hi>Engliſh</hi> and <hi>Scots</hi> Commiſſioners that came in with the <hi>Scots</hi> Army, and confirmed by the then Parliament, and taken off by them at the <hi>Scots</hi> Armies returne for <hi>Scotland</hi> alſo there was an Impoſt for 4. s. <hi>per</hi> Chaldron layd on by Sir <hi>Arthur Haſlerigge</hi> and the Com<g ref="char:EOLhyphen"/>mittee for the Militia in theſe parts in the yeare 1648. for the mainte<g ref="char:EOLhyphen"/>nance of the Garriſon of <hi>Tinmouth</hi> and <hi>Newcaſtle,</hi> in time when ſupply came not from the Committee for the Army, which was alſo
+<pb n="7" facs="tcp:175255:5"/> approved on by the Parliament, and taken off by them in <hi>September,</hi> 1649. Of all which there hath been Accompts rendred, and diſcharges accordingly given, I doe not know nor have heard of any other 4. s. <hi>per</hi> Chaldron that hath been Collected <hi>Newcaſtle.</hi> eyther before or ſince the yeare 1642. then what is above expreſſed. Dated Cuſtome-houſe <hi>Newcaſtle, September</hi> 30. 1654.</p>
+            <closer>
+               <signed>
+                  <hi>George Dawſon,</hi> Collector.</signed>
+            </closer>
+         </div>
+         <div type="report">
+            <head>Second Report.</head>
+            <head type="sub">By the Commiſsioners by Ordinance from his Highneſs the Lord Protector and his Councell, for Inſpecting the Treaſuries, <date>
+                  <hi>Octob. 3. 1654.</hi>
+               </date>
+            </head>
+            <p>IN purſuance of a Referrence from his Highneſs the Lord Protector dated <hi>Auguſt</hi> 3. 1654. upon the Petition of Sir <hi>Iob Harby</hi> Knight.</p>
+            <p>We doe humbly Certifie, that we doe find by Letters Pattents dated <hi>April</hi> 11.th in the tenth yeare of the late King, there was an Impoſi<g ref="char:EOLhyphen"/>tion of 4. s. the Chaldron of Sea-coales exported, which ſaid Impoſi<g ref="char:EOLhyphen"/>tion was confirmed by Act of Parliament in the booke of Rates, and by the ſaid Letter Pattents <hi>Iob Harby</hi> Eſquire, was made Collector of the ſaid Impoſition, And by Letters Pattents, dated <hi>Iuly</hi> 2. in the tenth yeare of the late King, the ſaid Impoſition of 4. s. the Chaldron on Sea-Coales exported, was granted to <hi>Henry Lucas, Iohn White,</hi> and <hi>Iob Harby</hi> Eſquire, for the Uſes of the Earle of <hi>Holland,</hi> Earle of <hi>Dorſet</hi> and Sir <hi>Iob Harby</hi> Knight upon conſideration of Services done by the ſaid Earles, and of payment of Eight thouſand ſix hundred and twelve pounds fifteene ſhillings and three-pence by Sir <hi>Job Harby,</hi> as by privie Seale dated laſt of <hi>Auguſt</hi> the 10. yeare of the late King doth appeare, and according to the ſaid Letters Pattents the rent reſer<g ref="char:EOLhyphen"/>ved therein was payd into the Exchequer by Sir <hi>Job Harby</hi> and others,
+<pb n="8" facs="tcp:175255:6"/> till the 23. of <hi>October,</hi> in the 20. yeare of the late King, as by Affida<g ref="char:EOLhyphen"/>vit of <hi>William Day</hi> of <hi>London</hi> Marchant doth appeare, we doe further find that the ſaid Sir <hi>Job Harby</hi> hath not received any part of the pro<g ref="char:EOLhyphen"/>fits ariſing on the ſaid Impoſition from the 29. <hi>Iuly,</hi> 1642. they being received by Order from the Earle of <hi>Newcaſtle,</hi> and after the delivery of the Towne of <hi>Newcaſtle,</hi> payd to the <hi>Scots,</hi> and ever ſince that time Mr. <hi>George Dawſon</hi> hath received according to the booke of Races e<g ref="char:EOLhyphen"/>ſtabliſhed by Parliament the ſumme of 11. Shil. 4. pence upon each Chaldron, in which the Impoſition of 4. s. the Chaldron for Coales ex<g ref="char:EOLhyphen"/>ported belonging to Sir <hi>Iob Harby</hi> is included the 11. s. 4. d. ariſing as followeth, 8. d. Cuſtomes, received by the Farmers of the Cuſtomes 6. s. 8. d. by the Deputy of Sir <hi>John Trevor,</hi> and 4. s. by the Deputy of Sir <hi>Job Harby;</hi> all which appeares by a Certificate under the hand of <hi>George Dawſon</hi> Collector of <hi>Newcaſtle,</hi> dated 30.th <hi>September,</hi> 1654. We do further find there was an Impoſition of 4. s. the Chaldron layd on by Sir <hi>Arthur Haſlerigge</hi> and the Committee of the Militia for the North, for the maintenance of the Garriſons of <hi>Tinmouth</hi> and <hi>Newcaſtle,</hi> by Certificate under the hand of Mr. <hi>George Dawſon</hi> da<g ref="char:EOLhyphen"/>ted as aforeſaid doth appeare, which ſaid Impoſition was conſtituted by order of Parliament dated 9.th <hi>February,</hi> 1646. but by an Order of Parliament dated <hi>September</hi> 11.th, 1649. repealed, as doth appeare by a Certificate under the hand of Mr. <hi>Scobell.</hi> Wee further find an Order made by the Committee of the Revenue, dated 10.th <hi>Auguſt,</hi> 1649. Requiring Sir <hi>Iob Harby</hi> to give an Accompt to Auditor <hi>Col<g ref="char:EOLhyphen"/>lins,</hi> what Monies hath been received by him thereupon, which is all that was tranſacted by the ſaid Committee; relating to the ſaid Im<g ref="char:EOLhyphen"/>poſition, as by Certificate under the hand of Mr. <hi>Couſins</hi> doth appeare. Upon Examination of the whole matter, wee humbly offer as our Opinions, that it is juſt; That the ſaid Sir <hi>Iob Harby</hi> ſhould be ſatisfi<g ref="char:EOLhyphen"/>ed for his Third part of —4. s. the Chaldron received on Sea-coales, exported ſince the yeare, 1642. and the ſaid Sir <hi>Iob Harby</hi> to bee ad<g ref="char:EOLhyphen"/>mitted to Collect the ſaid —4. s. on the Chaldron for the future and to receive the Third part thereof for his owne uſe, during the terme of yeares granted by the ſaid Letters Patterns yet unexpired.</p>
+            <closer>
+               <signed>
+                  <hi>George Bennet. William Roberts. Edw. Creſſet.</hi> Exam. <hi>Tho: Smithsby,</hi> Secretary.</signed>
+            </closer>
+         </div>
+         <div type="reference">
+            <pb n="9" facs="tcp:175255:6"/>
+            <head>The last Reference.</head>
+            <p>HIs Highneſs upon Conſideration of this Report, deſires the Advice of his Councell thereupon, and to that end referres it to their Conſideration.</p>
+            <closer>
+               <signed>JOHN THVRLOE.</signed>
+            </closer>
+         </div>
+         <div type="order">
+            <opener>
+               <dateline>
+                  <date>Thurſday 10.<hi rend="sup">th</hi> 
+                     <hi>February,</hi> 1656.</date>
+               </dateline>
+            </opener>
+            <p>ORdered that the humble Petition of Sir <hi>Iob Harby</hi> Knight, being directed to his Highneſs and by his Highneſs referred to the Councell, bee committed to the Lord <hi>Fleetwood,</hi> the Lord <hi>Lambert,</hi> the Earle of <hi>Mulgrave,</hi> and the Lord <hi>Strickland,</hi> or any two of them, by them to be conſidered of, and the matter of fact with their Opinion to be reported to the Councell.</p>
+            <closer>
+               <signed>William Jeſſop, Cler. Councell.</signed>
+            </closer>
+         </div>
+         <div type="disposition">
+            <p>The Lord <hi>Lambert</hi> being abſent Mr. <hi>Rouſe</hi> was named in his place, who together with the Lord <hi>Strickland</hi> did read the ſaid Reports and approved them 13. <hi>Auguſt,</hi> 1657</p>
+            <p>An Act of Parliament made 29. <hi>Ianuary,</hi> 1648. con<g ref="char:EOLhyphen"/>firmes all Letters Pattents.</p>
+         </div>
+         <div type="statement">
+            <pb n="10" facs="tcp:175255:7"/>
+            <head>Right Honourable.</head>
+            <p>YOu may pleaſe to remember that a Petition of mine was by your Honours hands preferred to his Highneſs, humbly craving the con<g ref="char:EOLhyphen"/>firmation of my Leaſe 4. s. the Chaldron for Coles exported, which Petition was referred to the Committee for Inſpection the 23. <hi>Februa<g ref="char:EOLhyphen"/>ry,</hi> 1653. who did examine all particulers therein contained, and did Report to be juſt, That J ſhould be reſtored to my Collection, and alſo be admitted to receive a Third part, of the ſaid duty for my owne uſe untill the expiration of the Letters Pattents, as alſo that J ſhould be ſatisfied for my Arreares, ſince 1642. Which Report was by your Honour offered to his Highneſs, whereupon his Highneſs for a further diſcovery of the truth of the Allegations, did the ſecond time Referre the ſame unto the ſaid Committee with further Directions to examine what had been agitated in Parliament, and at the Committee of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> alſo by whom the Money had been received ſince 1642. By vettue of which ſecond Referrence dated <hi>Auguſt,</hi> 1654. the ſaid Committee did ſeriouſly examine all the particulers, and after ſuch Examinations did 2. <hi>October</hi> make two Reports <hi>in hac verba,</hi> upon Examination; of the whole matter, wee moſt humbly offer as our O<g ref="char:EOLhyphen"/>pinion, that it is juſt that the ſaid Sir <hi>Iob Harby</hi> ſhould be ſatisfied for his third. part of — 4. s. the Chaldron received on Coales exported ſince 1642. and the ſaid Sir <hi>Iob Harby</hi> to be admitted to Collect the ſaid—4. s. on the Chaldron for the future, and to receive the Third part therof to his owne uſe; during the tearme of yeares granted by the ſaid Letters Pattents yet unexpoſed.</p>
+            <p>This Report his Highneſs referred to the Councell, which together with my Petition to their Lordſhips produced an Order 10.th <hi>Febr.</hi> 1656. whereby that whole matter was Referred unto Foure or any Two of their Lordſhips by them to be conſidered, and the fact with their opinion to be reported to the Councell, In purſuance of w<hi rend="sup">ch</hi> Or<g ref="char:EOLhyphen"/>der the Report from the Committee for Inſpection was received and
+<pb n="11" facs="tcp:175255:7"/> conſidered at the Councell 12. <hi>Auguſt</hi> laſt, and was by their Lordſhips approved in every particuler.</p>
+            <p>Hereby it doth appeare, that I have as juſt a Tytle to the premiſſes as any man hath unto his Land of Inheritance, wherewith if his High<g ref="char:EOLhyphen"/>neſs were fully acquainted, I am confident that ſuch is his inclination to Piety and Iuſtice that hee would not deny it unto an Aged man a<g ref="char:EOLhyphen"/>gainſt whom there was never any complaint, nor hath ever been in Armes, nor oppoſition to the Parliament, but a large and conſtant Contributor to the ſervice of the State upon all occaſions, hee having contributed above 3000. l. of which hee never received back one penny, and hath in obedience to his Highneſs command lately ſatisfi<g ref="char:EOLhyphen"/>ed 1400. pound to the Executors of Captain <hi>Thomas Weſtro,</hi> where<g ref="char:EOLhyphen"/>as hee might have been cleared for Six and thirty pounds, had nor his Highneſs interpoſed.</p>
+            <p>The ſtate of my Caſe in this particuler, being thus ſtated, I doe humbly and earneſtly crave, That I may be admitted to my Collection on according to the Report ſo ſtrongly confirmed, and that I may Have a Warrant to the Collectors ſo to pay me, or bee accomptable unto me for ſo much of the—4. Shillings the Chaldron as hath been Collected by them ſince 3. <hi>October,</hi> 1654. and for the Arreares due to me from 1642. till 1654. I doe humbly ſubmit to take them out of the future Collection of the ſaid duty of—4. Shillings the Chaldron, and ſhall pay the Rent reſerved according to the Letters Patterns, which Act of Iuſtice mixed with Compaſſion will ever bee thankfully acknowledged by—</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>Octob.</hi> 23. 1657.</date>
+               </dateline>
+               <salute>Right Hon:<hi rend="sup">ble</hi>,</salute> 
+               <signed>Your moſt humble Servant, <hi>J. H.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="petition">
+            <pb n="12" facs="tcp:175255:8"/>
+            <head>To his Highneſs OLIVER Lo. Protector of the Common-wealth of <hi>England, Scotland,</hi> and <hi>Ireland.</hi> And to the Right Hon:<hi rend="sup">ble</hi>, the Lords of his Highneſs Councell.</head>
+            <head>The humble Petition of Sir <hi>IOB HARBY</hi> Knight.</head>
+            <p>
+               <hi>Moſt humbly Sheweth,</hi>
+            </p>
+            <p>THat the Petitioner by your Highneſs juſt favour, hath obtained two well grounded Reports from the Committee for Inſpection, certifying the juſt tytle hee hath unto one third part: of a Leaſe for— 4. ſhil. upon the Chaldron of Sea-Coles exported; which ſaid Reports have likewiſe by your Highneſs direction been peruſed before the Councell, and by ſome of their Lordſhips have been confirmed in two particulers, <hi>viz.</hi> Firſt, That it is juſt, the Petitioner ſhould have his Arreares ſince 1642. and 2.ly, That hee ſhould enjoy the benefit of his Leaſe untill the expiration of his Graunt, as may appeare by the Papers in the hands of Mr. <hi>Jeſſop.</hi>
+            </p>
+            <p>It may further pleaſe your Highneſs; The Petitioners Leaſe is un<g ref="char:EOLhyphen"/>der the, Great Seale of <hi>England,</hi> and was more then XX. yeares paſt granted unto him, upon a very valuable Conſideration being neare 9000. l. in Money with a Rent reſerved of—500. l. <hi>per annum</hi> untill the end of the Leaſe; whereby (he humbly conceiveth) he hath as juſt a tytle thereunto as any man hath to his Land of inheritance; the want whereof, together with other his unparalleld ſufferings hath reduced him and his Family into a periſhing Condition, and this, not<g ref="char:EOLhyphen"/>withſtanding he did conſtantly abide with the Parliament and upon all occaſions hath been a large Contributor to the Service of the Common-wealth.</p>
+            <p>The Premiſſes conſidered, the Petitioner doth moſt humbly pray, That hee may not (without any juſt cauſe) bee deprived of his Propriety, but that he may enjoy the benefits of his ſaid Leaſe according to the Contents of the aboveſaid Reports;</p>
+            <closer>
+               <signed>
+                  <hi>And hee ſhall Ever pray, &amp;c.</hi> JOB HARBY.</signed>
+            </closer>
+         </div>
+         <div type="document">
+            <pb n="13" facs="tcp:175255:8"/>
+            <opener>
+               <dateline>
+                  <date>Thurſday 13.<hi rend="sup">th</hi> 
+                     <hi>May,</hi> 1658.</date> At the Councell at <hi>White-hall.</hi>
+               </dateline>
+            </opener>
+            <p>VPon reading a Report from the Committee to whom the Petition of Sir <hi>Iob Harby</hi> was Referred, Ordered, that the ſame together with the papers annexed, be refer<g ref="char:EOLhyphen"/>red to the Lords Commiſſioners of his Highneſs Treaſury to conſider thereof, and ſtate the whole caſe as now it ſtands, aſwell in Referrence to the Petitioners claime, as to the Impoſition of 4. s. a Chaldron for Coales, and report the ſame to the Councell.</p>
+            <closer>
+               <signed>HEN. SCOBEL <hi>Clerk of the Councell.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="statement">
+            <head>To the right <hi>Hon:<hi rend="sup">ble</hi>,</hi> the Lords Commiſsio<g ref="char:EOLhyphen"/>ners of the Treaſury.</head>
+            <p>ACcording to your Lordſhip Order of the 21.th of <hi>May</hi> 1658. Upon the Petition of Sir <hi>Job Harby</hi> Knight, praying an allow<g ref="char:EOLhyphen"/>ance of a Demize and Graunt by Letters Pattents of the late king of 4. Shilling the Chaldron for Coales exported, under the Rent in the ſaid Demize reſerved, and that a Committee may be appointed to call thoſe perſon to an Accompt for—20000. l. by them received; and in particuler Sir <hi>Arthur Haſlerigge,</hi> for the great ſummers he hath received out of the ſaid Collection. The ſaid Petition with certaine Papers, annexed being referred to your Lordſhips by Order of his Highneſs, to ſtate the whole Caſe as it ſtands, aſwell in Reference to the Petitioners claime, as to the Impoſition of—4. s. the Chaldron for Coales, and report the ſame to the Councell, with all convenient ſpeed. Upon information to us given, wee find that by Letters Pat<g ref="char:EOLhyphen"/>tents dated the 11.th <hi>April,</hi> 10.th <hi>Caroli</hi> the ſaid late King, did charge and command the Cuſtomers and Receivers, and all Officers and Miniſters attending the receipt of Cuſtomes, that they ſhould cauſe to be Levied and payd to the uſe of Him, his Heyrs and Succeſ<g ref="char:EOLhyphen"/>ſors, the ſumme of—4. s. for every Chaldron of Sea-Cole, Pit, and Stone-Coale <hi>Newcaſtle</hi> meaſure, that ſhould be carried out of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi>
+               <pb n="14" facs="tcp:175255:9"/> and <hi>Wales,</hi> or the Town of <hi>Barwick</hi> or Shipped into any parts out of the ſaid Realm in the name of Cuſtome over and above all the Cu<g ref="char:EOLhyphen"/>ſtoms, &amp; Impoſts on Coles and other Port duties before that time uſed to be Collected and payd for ſuch Coles; And that ſecurity ſhould be given, therefore according to the uſuall manner in caſes of Cuſtomes.</p>
+            <p>That by Indenture under the Great Scale of <hi>England,</hi> dated 2. <hi>Iuly</hi> in the 10.th yeare of the ſaid King, betweene the ſaid King of the one part and <hi>Henry Lucas, Iohn White,</hi> and the Petitioner <hi>Iob Harby</hi> 
+               <abbr>Eſq</abbr> of the other part, reciting the ſaid Letters Pattents, and that hee was re<g ref="char:EOLhyphen"/>ſolved ſo Continue the ſaid Impoſition upon Coales to him his Heirs, and Succeſſors for ever, in Conſideration of ſeverall yearly Rents re<g ref="char:EOLhyphen"/>ſerved in the ſaid Indenture, and divers other cauſes the ſaid King ther<g ref="char:EOLhyphen"/>unto moving; did Demize, Graunt, and to Farme let unto the ſaid <hi>Henry Lucas, John White</hi> and <hi>Iob Harby,</hi> their Excutors and Aſſignes all and every the ſaid new Cuſtomes of — 4. s. due and payable or by the ſaid Letters Pattents appointed to be payed or anſwered unto the ſaid King, his Heires and Succeſſors, for or in reſpect of the ſaid Coales for the tearme and ſpace of 31. Yeares from the date of the ſaid reci<g ref="char:EOLhyphen"/>ted Letters Pattents, to Collect and receive the ſame by themſelves or by their Deputies, or every of their Deputies, or Subſtitutes from the Receiver or Collector thereof, paying for the firſt 7. Yeares the ſumme of 100 l. <hi>per annum,</hi> at <hi>Michaelmas</hi> and our <hi>Lady</hi> day, or within 40. dayes after, by equall portions into the receipt of the Exchequer. And during the reſidue of the 31. years, the ſumme of 500. l. yearly as aforeſaid, with the ſeverall Covenants on the behalfe of his Majeſty, his Heirs, and Succeſſors, for the quite enjoying thereof, under the ſaid Rent in caſe of Interruption, as by the ſaid ſeverall Letters Pattents, and Indentures under the Great Seale of <hi>England,</hi> produced unto Us did appeare; And by an Act of the late Parliament 1648. intituled for the Alteration of ſeverall Names and Formes heretofore in Courts, Writs, Grants, Letters Pattents, &amp;c. Amongſt other things it is enacted as followeth; <hi>Provided that all Writs, &amp;c. and all other Commiſſions Pattents and Graunts, made and paſſed under the Great Scale of</hi> Eng<g ref="char:EOLhyphen"/>land, <hi>ſhall ſtand good and effectuall in Law, notwithſtanding the death of the King, any thing in the ſaid act or any Article therein Contai<g ref="char:EOLhyphen"/>ned, or any Law, Statute, or Cuſtom to the Country thereof in any wiſe notwithſtanding.</hi> And in the Printed booke of Rates and Ordi<g ref="char:EOLhyphen"/>nances of Parliaments touching the ſame in the yeare 1647. Intituled
+<pb n="15" facs="tcp:175255:9"/> 
+               <hi>An Ordinance of the Lords and Commons aſſembled in Parliament for the eſtabliſhing of Subſedy of Tonnage and Poundage, together with the books of Rates,</hi> from the 26.th of <hi>March,</hi> 1648. untill the 26.th <hi>March,</hi> 1651. 'Tis mentioned as foll &amp;c.—</p>
+            <p>Coales Vocat. Sea-coales <hi>Newcaſtle</hi> meaſure,— 11. 6. 8. d.</p>
+            <p>Coales Vocat. Sea-coales the Chaldron <hi>London</hi> meaſure, 11. 13. 4. d.</p>
+            <p>Sea-coales of <hi>Wales</hi> or the Weſt Country, which ſhall be tranſported into <hi>Ireland,</hi> the Iſle of <hi>Man,</hi> or <hi>Scotland,</hi> to pay the Chaldron Water meaſure, — 00 1. s. 00.</p>
+            <p>And the Petitioner produced to Us Letters under the Privie Seale of the late King dated the laſt day of <hi>Auguſt,</hi> in the ſaid 10.th yeare of his Raigne, reciting the ſaid Letters Pattents of a Leaſe of the ſaid Im<g ref="char:EOLhyphen"/>poſition upon Coales, and mentioning a claime of — 3036. l. 7. s. 6. d. as due from the ſaid King unto the ſaid Sir <hi>Iob Harby</hi> for Goods of that value upon the late breach between the ſaid King and the <hi>French,</hi> ſeized to the <hi>French</hi> Kings uſe; And of ſeverall ſummes due from the ſaid King for fraight of Ships, <hi>viz</hi> 840. l. 2. s. and 736. 5. 9. both which ſummes a mount unto 1576. l. 7. s. 9. d. And that the ſaid Sir <hi>Iob Harby,</hi> and <hi>Clement Harby,</hi> in Conſideration of the ſaid De<g ref="char:EOLhyphen"/>mize and Graunt made as aforeſaid, for the ſaid new Cuſtomes. And as for the ſaid Sir <hi>Iob Harby</hi> his Third part thereof, had by their Deed to 10. <hi>Iuly</hi> then next before, releaſed unto the ſaid King ſeverall Debts; And for a further Conſideration for the ſaid demize of the ſaid new Cuſtomes, as to him the ſaid Sir <hi>Iob Harby</hi> had payed unto the Earle of <hi>Portland</hi> the Lord Treaſurer, for the Kings uſe the ſum of 4000. l. It is thereby declared, that the ſaid King did accept of the ſaid releaſe in diſcharge of the ſaid Debts, and did accept thereof, and of the ſaid 4000. l. in full ſatisfaction for the ſaid Sir <hi>Iob Harby</hi> his 3. part of the ſaid new Cuſtomes ſo by his Majeſty demized; That according to the ſaid Demize the rent reſerved therein was payd into the Exchequer by the ſaid Sir <hi>Job Harby</hi> and others the Leaſees, untill the 28. of <hi>Octob.</hi> in the 20. yeare of the late King as appeareth by the Oath of <hi>Will Day</hi> of <hi>London</hi> Marchant made before Baron <hi>Trevor</hi> 23. <hi>October,</hi> 20. <hi>Car. R.</hi> hereunto annexed. That by late Kings Letters and Commands to the then Receiver of the duties payable upon Coales dated the 29.th <hi>Iuly</hi> in the ſaid yeare 42. And ſoone after by Letters and Commands from the Earl of <hi>Newcaſtle,</hi> then being in power in thoſe parts of the North, Command was given to the ſaid Receivers, that they ſhould forthwith pay unto Sir <hi>Alexander Devidſon</hi> of <hi>Newcaſtle</hi> for the
+<pb n="16" facs="tcp:175255:10"/> Kings uſe, all ſuch Monies as they had received or ſhould receive upon that duty for tranſportation of Coales into Forraigne parts. As by the Originall letter of the late King, and under the privie Signet to Us pro<g ref="char:EOLhyphen"/>duced appeares, and the Copies of other Letters of the ſaid Earle of <hi>Newcaſtle,</hi> atteſted and ſworne to be true Copies before Mr. Baron <hi>Thomlins</hi> hereunto annexed may appeare; And it appeareth alſo by the Certificate of <hi>Tho. Palmer</hi> being Collector of the great Cuſtomes at the Port of <hi>Newcaſtle,</hi> the then Farmers and Commiſſioners, did receive ſeverall Acts of Parliament for Confirmation of the Subſedy of Tunage and Poundage, and at that time did receive and pay the ſaid new Impoſt of 4. s. <hi>per</hi> Chaldron of Coales exported to the ſaid Sir <hi>Iob Harby</hi> or his Aſſignes, and did ſo receive and pay the ſame untill the 2. <hi>Iuly,</hi> 1642. After which time divers ſummes of Monies being in the hands of divers Merchants and others for Cuſtomes of Coales and Goods. The Earl of <hi>Newcaſtle</hi> poſſeſſing himſelfe of the ſaid Towne, of <hi>Newcaſtle,</hi> one <hi>John Lake</hi> (by power from the ſaid Earl of <hi>New<g ref="char:EOLhyphen"/>caſtle</hi>) as was conceived, did receive the ſaid ſummes of Mony or pare thereof, and after the Storming of <hi>Newcaſtle,</hi> which was about the 18. <hi>October</hi> 44. and ever ſince, one <hi>George Dawſon</hi> did receive the generall Cuſtomes, and Subſedy of Tonage and Poundage, according to the new booke of Rates, where all the duties of Coales exported are pla<g ref="char:EOLhyphen"/>ced together and received in One generall ſumme, the ſaid new Impoſt of 4. s. being part thereof; The ſaid <hi>Dawſon</hi> faith, that when the <hi>Scots</hi> and afterwards Sir <hi>Arthur Haſlerigge</hi> had the Command of the ſaid Town, he payd divers ſummes of Money to them, for which he tooke their Receipts, and did accompt to the Commiſſioners of the Cuſtomes for the ſame, and ſtill doth accompt with them for all ſummes received by him ſince. And it appeares by a Copie of a Certificate of ſeverall Officers, and perſons of the Towne of <hi>Newcaſtle,</hi> ſworne alſo to be a true Copie as aforeſaid hereunto annexed, That before the new Impoſt of the 4. s. was impoſed on Coales Shipped for Over-ſeas, there was only 8. d. and 6. s. 8. d. payd by the <hi>Engliſh</hi> for a Chaldron of Coales ſo Shipped. And afterwards before the year, 1642. Mr. <hi>Thomas Palmer,</hi> did at <hi>Newcaſtle</hi> firſt receive the ſaid — 4. s. <hi>per</hi> Chaldron for Coales then impoſed, and then the ſaid ſeverall ſummes of — 8. d. 6. s. 8. d. and 4. s. were then received by ſeverall perſons ſeverally, it being in all 11. s. 4. d. the Chaldron, and that of lare Mr. <hi>George Dawſon</hi> the now Collector of the Cuſtomes of <hi>Newcaſtle,</hi> doth receive the ſaid ſummes of 11. s. 4. d. the Chaldron in one ſumme altogether, dated the 24. <hi>Iune</hi> 1658.</p>
+            <closer>
+               <signed>Peter Breerton, Tho: Manby.</signed>
+            </closer>
+            <pb facs="tcp:175255:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
